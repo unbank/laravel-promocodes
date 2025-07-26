@@ -1,6 +1,6 @@
 {
-  "name": "unbank/promocodes",
-  "description": "Promotional Codes Generator for Laravel 5",
+  "name": "unbank/laravel-promocodes",
+  "description": "Promotional Codes Generator for Laravel",
   "keywords": [
     "promo code",
     "coupon code",
@@ -8,7 +8,7 @@
     "laravel",
     "php"
   ],
-  "homepage": "https://github.com/unbank/promocodes",
+  "homepage": "https://github.com/unbank/laravel-promocodes",
   "license": "MIT",
   "type": "library",
   "authors": [
